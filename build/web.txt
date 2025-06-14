@@ -1,0 +1,9 @@
+build/
+└── web/
+    ├── index.html          ✅ Página inicial do site
+    ├── main.dart.js        ✅ Código Dart convertido em JavaScript
+    ├── flutter.js          ✅ Script do Flutter Web
+    ├── assets/
+    │   └── Fontes, imagens, ícones etc.
+    ├── favicon.png         ✅ Ícone do site
+    └── manifest.json       ✅ Metadata para web app
